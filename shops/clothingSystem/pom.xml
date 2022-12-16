@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <!--<properties>
            &lt;!&ndash; springMVC版本号 &ndash;&gt;
-           <spring.version>4.3.8.RELEASE</spring.version>
+           <spring.version>5.2.20.RELEASE</spring.version>
        </properties>-->
     <properties>
         <!-- springMVC版本号 -->
